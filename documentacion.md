@@ -1,33 +1,33 @@
 #Página principal, que será la página de presentación de uno mismo, incluyendo tu descripción. 1 punto.
 
-![presentación](presentaciondeunomismo.png)
+![presentación](ImagenesDocumentación/presentaciondeunomismo.png)
 
 #Uso de diferentes usuarios, mediante la opción de registro. 1 punto.
 
-![registro](registro.png)
+![registro](ImagenesDocumentación/registro.png)
 
 #Uso de un menú o de una zona personalizada para el usuario registrado. 1 puntos.
 
 
 #Visión del repositorio personal de GitHub. 1,5 punto.
 
-![github](GitHub.png)
+![github](ImagenesDocumentación/GitHub.png)
 
 #Visor de pdf que contenga el Currículum, con opción de descarga. El Currículum debe estar en formato .pdf . 1 puntos.
 
 Accesible desde el menú
 
-![curriculum](MenuCurriculum.png)
+![curriculum](ImagenesDocumentación/MenuCurriculum.png)
 
 
-![curriculum](curriculum.png)
+![curriculum](ImagenesDocumentación/curriculum.png)
 
 #Uso de un tema común propio (No el base de Cassiopeia) para todo el sitio Web. 0,5 puntos.
 
 
 #Zona para contactar, con enlace para enviar un correo. 1 puntos.
 
-![contacto](contacto.png)
+![contacto](ImagenesDocumentación/contacto.png)
 
 #Extras. 0,5 puntos máximo cada extra, 1 punto máximo en total.
 
