@@ -15,8 +15,6 @@
 
 # Visor de pdf que contenga el Currículum, con opción de descarga. El Currículum debe estar en formato .pdf . 1 puntos.
 
-. Accesible desde el menú
-
 ![curriculum](ImagenesDocumentación/MenuCurriculum.png)
 
 
