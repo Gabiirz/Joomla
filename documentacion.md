@@ -1,81 +1,102 @@
-# Página principal, que será la página de presentación de uno mismo, incluyendo tu descripción. 1 punto.
+# Página principal
+Que será la página de presentación de uno mismo, incluyendo tu descripción. **1 punto.**
 
 ![presentación](ImagenesDocumentación/presentacion.png)
 
-# Uso de diferentes usuarios, mediante la opción de registro. 1 punto.
+---
+
+# Uso de diferentes usuarios, mediante la opción de registro. **1 punto.**
 
 ![registro](ImagenesDocumentación/registro.png)
 
-# Uso de un menú o de una zona personalizada para el usuario registrado. 1 puntos.
+---
 
- ### Este es el menu de un user, sin ningun permiso. 
- ![registro](ImagenesDocumentación/menuUsuario.png)
+# Uso de un menú o de una zona personalizada para el usuario registrado. **1 punto.**
 
- ### Este es el menu deL Admin, CON permisos.
- ![registro](ImagenesDocumentación/menuAdmin.png) 
+### Este es el menú de un user, sin ningún permiso. 
+![registro](ImagenesDocumentación/menuUsuario.PNG)
 
-# Visión del repositorio personal de GitHub. 1,5 punto.
- ### Enlace directo a github a traves del menú
- ![github](ImagenesDocumentación/github.png)
+### Este es el menú del Admin, CON permisos.
+![registro](ImagenesDocumentación/menuAdmin.PNG)
 
-# Visor de pdf que contenga el Currículum, con opción de descarga. El Currículum debe estar en formato .pdf . 1 puntos.
+---
 
-![curriculum](ImagenesDocumentación/curiculum.png)
+# Visión del repositorio personal de GitHub. **1.5 puntos.**
 
+### Enlace directo a GitHub a través del menú.
+![github](ImagenesDocumentación/github.PNG)
+
+---
+
+# Visor de PDF que contenga el Currículum, con opción de descarga. El Currículum debe estar en formato .pdf. **1 punto.**
+
+![curriculum](ImagenesDocumentación/curiculum.PNG)
 
 ![curriculum](ImagenesDocumentación/curriculum.png)
 
-# Uso de un tema común propio (No el base de Cassiopeia) para todo el sitio Web. 0,5 puntos.
-![curriculum](ImagenesDocumentación/tema.png)
+---
 
-![curriculum](ImagenesDocumentación/temaPropio.png)
+# Uso de un tema común propio (No el base de Cassiopeia) para todo el sitio Web. **0.5 puntos.**
 
+![curriculum](ImagenesDocumentación/tema.PNG)
 
-# Zona para contactar, con enlace para enviar un correo. 1 puntos.
+![curriculum](ImagenesDocumentación/temaPropio.PNG)
+
+---
+
+# Zona para contactar, con enlace para enviar un correo. **1 punto.**
 
 ![contacto](ImagenesDocumentación/contacto.png)
 
-# Extras. 0,5 puntos máximo cada extra, 1 punto máximo en total.
+---
 
-#### He creado el MODO OSCURO que es un boton que esta en la parte de abajo dxe la pagina, lo que hace es que la pagina se vuelve oscura.
+# Extras. **0.5 puntos máximo cada extra, 1 punto máximo en total.**
 
-##### Foto del boton.
+#### He creado el **MODO OSCURO** que es un botón que está en la parte inferior de la página, lo que hace es que la página se vuelve oscura.
 
-![contacto](ImagenesDocumentación/modoOscuroEasterEgg.png)
+##### Foto del botón.
 
-###### Foto pagina contacto sin el modo osuro.
+![contacto](ImagenesDocumentación/modoOscuroEasterEgg.PNG)
 
-![contacto](ImagenesDocumentación/Normal(modooscuro).png)
+###### Foto de la página de contacto sin el modo oscuro.
 
-###### Foto pagina contacto CON el modo osuro.
+![contacto](ImagenesDocumentación/Normal(modooscuro).PNG)
 
-![contacto](ImagenesDocumentación/modoOscuroActive.png)
+###### Foto de la página de contacto CON el modo oscuro.
 
-###### Foto pagina MiCuenta sin el modo osuro.
+![contacto](ImagenesDocumentación/modoOscuroActive.PNG)
 
-![contacto](ImagenesDocumentación/miCuentaNormal(oscuro).png)
+###### Foto de la página "Mi Cuenta" sin el modo oscuro.
 
-###### Foto pagina MiCuenta CON el modo osuro.
+![contacto](ImagenesDocumentación/miCuentaNormal(oscuro).PNG)
 
-![contacto](ImagenesDocumentación/ModoOscuroMiCuenta(ModoOscuro).png)
+###### Foto de la página "Mi Cuenta" CON el modo oscuro.
 
-#### He creado una flecha hacia arriba como botón que si le pulsas sube la pagina hasta arriba para que no tengas que estar subiendo con el mause.
+![contacto](ImagenesDocumentación/ModoOscuroMiCuenta(ModoOscuro).PNG)
+
+---
+
+#### He creado una **flecha hacia arriba** como botón que, al pulsarla, sube la página hasta arriba para que no tengas que estar subiendo con el mouse.
 
 ##### Foto del icono de la flecha.
 ![contacto](DiseñoInterfaz/EsterEggSubida.PNG)
 
-##### Como queda en la página.
+##### Cómo queda en la página.
 
 ![contacto](DiseñoInterfaz/EsterEggSubidaPagina.PNG)
 
+---
 
-# Documentación. Deben incluir imágenes que demuestren los contenidos evaluables. Además deberá incluir el mapa de la web y el diseño de la interfaz. 2 puntos.
+# Documentación. 
+Debe incluir imágenes que demuestren los contenidos evaluables. Además, deberá incluir el mapa de la web y el diseño de la interfaz. **2 puntos.**
 
 ## Mapa de navegación web.
 
 ![contacto](MapaWeb/mapaWebJoomla.jpg)
 
-## Diseño del Interfaz.
+---
+
+## Diseño de la Interfaz.
 
 #### Inicio.
 ![contacto](DiseñoInterfaz/Inicio.PNG)
@@ -98,11 +119,13 @@
 #### Mi cuenta.
 ![contacto](DiseñoInterfaz/MiCuenta.PNG)
 
-#### Modo administrador (primero te pedira el usuario y contraseña).
+#### Modo administrador (primero te pedirá el usuario y contraseña).
 ![contacto](DiseñoInterfaz/modoAdmin.PNG)
 
-#### MENU.
+#### MENÚ.
 ![contacto](DiseñoInterfaz/menu.PNG)
 
+---
 
 # Como punto adicional se sugiere la subida o desarrollo del sitio web en un hosting real de internet, preferiblemente gratuito, donde cualquier usuario pueda acceder a él.
+
