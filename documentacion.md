@@ -59,9 +59,50 @@
 
 ![contacto](ImagenesDocumentación/ModoOscuroMiCuenta(ModoOscuro).png)
 
+#### He creado una flecha hacia arriba como botón que si le pulsas sube la pagina hasta arriba para que no tengas que estar subiendo con el mause.
+
+##### Foto del icono de la flecha.
+![contacto](DiseñoInterfaz/EsterEggSubida.PNG)
+
+##### Como queda en la página.
+
+![contacto](DiseñoInterfaz/EsterEggSubidaPagina.PNG)
 
 
 # Documentación. Deben incluir imágenes que demuestren los contenidos evaluables. Además deberá incluir el mapa de la web y el diseño de la interfaz. 2 puntos.
+
+## Mapa de navegación web.
+
+![contacto](MapaWeb/mapaWebJoomla.jpg)
+
+## Diseño del Interfaz.
+
+#### Inicio.
+![contacto](DiseñoInterfaz/Inicio.PNG)
+
+#### Contacto.
+![contacto](DiseñoInterfaz/Contacto.PNG)
+
+#### Cerrar Sesión.
+![contacto](DiseñoInterfaz/cerrarSesion.PNG)
+
+#### Configuración del administrador.
+![contacto](DiseñoInterfaz/confgAdmin.PNG)
+
+#### Configuración.
+![contacto](DiseñoInterfaz/Configuración.PNG)
+
+#### Currículum.
+![contacto](DiseñoInterfaz/Curriculum.PNG)
+
+#### Mi cuenta.
+![contacto](DiseñoInterfaz/MiCuenta.PNG)
+
+#### Modo administrador (primero te pedira el usuario y contraseña).
+![contacto](DiseñoInterfaz/modoAdmin.PNG)
+
+#### MENU.
+![contacto](DiseñoInterfaz/menu.PNG)
 
 
 # Como punto adicional se sugiere la subida o desarrollo del sitio web en un hosting real de internet, preferiblemente gratuito, donde cualquier usuario pueda acceder a él.
